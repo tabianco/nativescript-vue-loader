@@ -1,14 +1,14 @@
 {
-  "name": "vue-loader",
-  "version": "13.6.0",
+  "name": "nativescript-vue-loader",
+  "version": "0.1.0",
   "description": "Vue single-file component loader for Webpack",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vuejs/vue-loader.git"
+    "url": "https://github.com/rigor789/nativescript-vue-loader.git"
   },
   "keywords": [
-    "vue",
+    "nativescript-vue",
     "webpack",
     "loader"
   ],
@@ -16,12 +16,12 @@
     "index.js",
     "lib"
   ],
-  "author": "Evan You",
+  "author": "rigor789",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vuejs/vue-loader/issues"
+    "url": "https://github.com/rigor789/nativescript-vue-loader/issues"
   },
-  "homepage": "https://github.com/vuejs/vue-loader",
+  "homepage": "https://github.com/rigor789/nativescript-vue-loader",
   "scripts": {
     "lint": "eslint lib test",
     "lint:fix": "eslint lib test --fix",
@@ -96,6 +96,7 @@
     "url-loader": "^0.6.2",
     "vue": "^2.5.0",
     "vue-server-renderer": "^2.5.0",
+    "nativescript-vue-template-compiler": "^0.5.1",
     "vue-template-compiler": "^2.5.0",
     "webpack": "^3.7.1"
   }
