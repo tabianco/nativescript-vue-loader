@@ -1,6 +1,6 @@
 {
   "name": "nativescript-vue-loader",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Vue single-file component loader for Webpack",
   "main": "index.js",
   "repository": {
