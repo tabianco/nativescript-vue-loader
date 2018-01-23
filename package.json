@@ -16,7 +16,7 @@
     "index.js",
     "lib"
   ],
-  "author": "rigor789",
+  "author": "Igor Randjelovic",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/rigor789/nativescript-vue-loader/issues"
@@ -96,7 +96,7 @@
     "url-loader": "^0.6.2",
     "vue": "^2.5.0",
     "vue-server-renderer": "^2.5.0",
-    "nativescript-vue-template-compiler": "^0.5.1",
+    "nativescript-vue-template-compiler": "^0.7.9",
     "vue-template-compiler": "^2.5.0",
     "webpack": "^3.7.1"
   }
